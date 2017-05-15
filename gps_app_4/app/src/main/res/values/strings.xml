@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">gps_app_4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_history_maps">Map</string>
+</resources>
